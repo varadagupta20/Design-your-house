@@ -6,6 +6,8 @@ Welcome to Design Your House, a beautifully crafted HTML and CSS website that sh
 HTML5: For the structure and content of the website.
 
 CSS3: For styling, layout, and responsive design.
+### Layout is as follows:
+https://github.com/varadagupta20/Design-your-house/assets/143926527/554292f1-d8d9-4ef0-8648-d653be2b4570
 
 <img width="1512" alt="Screenshot 2024-06-01 at 12 32 53 PM" src="https://github.com/varadagupta20/Design-your-house/assets/143926527/2e2af316-c008-4a78-89a6-4539ba02fed3">
 
